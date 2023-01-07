@@ -22,3 +22,6 @@ You can serve through nginx or another one.
 
 ## Update
 Everything are updated in 07/01/2023
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
