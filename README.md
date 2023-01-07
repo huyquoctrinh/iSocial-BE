@@ -1,10 +1,16 @@
 # iSocial-BE
 BE of iSocial
 
-# Description
+## Description
 This is the Backend Demo of iSocial applications.
 
 Everything is setting up on AWS
 
-# Update
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Update
 Everything are updated in 07/01/2023
