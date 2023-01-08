@@ -1,0 +1,75 @@
+{
+
+    "1":{
+
+        "fullname":"ongVuong",
+        "accountid":"1",
+        "following":"123",
+        "follower":"123",
+        "friends":"5",
+
+        "photoList":[
+              {"id":"1",
+               "uri":"https://wallpaperaccess.com/full/1669289.jpg"},
+            
+              {"id":"2",
+               "uri":"https://wallpaperaccess.com/full/1669289.jpg"}
+            ],
+
+        "videoList":[
+            {"id":"1", 
+            "uri":"https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+            "thubmnail":"https://wallpaperaccess.com/full/1669289.jpg"}
+        ],
+        "avatarUri":"https://wallpaperaccess.com/thumb/32048.jpg",
+        "backgroundAvatarUri": "https://wallpaperaccess.com/full/1669289.jpg"
+    },
+    
+    "2":{
+
+        "fullname":"ongThien",
+        "accountid":"2",
+        "following":"256",
+        "follower":"100",
+        "friends":"7",
+        "photoList":[
+            {"id":"1",
+            "uri":"https://wallpaperaccess.com/full/1669289.jpg"},
+            
+            {"id":"2",
+            "uri":"https://wallpaperaccess.com/full/1669289.jpg"}
+        ],
+        
+        "videoList":[{"id":"1",
+                      "uri":"https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+                     "thubmnail":"https://wallpaperaccess.com/full/1669289.jpg"}
+                    ],
+        "avatarUri":"https://wallpaperaccess.com/thumb/8176.jpg",
+        "backgroundAvatarUri": "https://wallpaperaccess.com/thumb/57200.jpg"
+    },
+    "3":{
+
+        "fullname":"ongLam",
+        "accountid":"3",
+        "following":"5556",
+        "follower":"10",
+        "friends":"8",
+        "photoList":[
+            {"id":"1",
+            "uri":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG/330px-Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG"},
+            
+            {"id":"2",
+            "uri":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG/330px-Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG"}
+        ],
+        "videoList":[
+            {"id":"1",
+            "uri":"https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+            "thubmnail":"https://wallpaperaccess.com/full/1669289.jpg"
+            }
+        ],
+        "avatarUri":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG/330px-Ragdoll_Kater%2C_drei_Jahre_alt%2C_RAG_n_21_seal-tabby-colourpoint%2C_Januar_2015.JPG",
+        "backgroundAvatarUri": "https://wallpaperaccess.com/full/1669289.jpg"
+    }
+
+
+}
